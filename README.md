@@ -7,7 +7,6 @@ I am passionate about uncovering insights, solving problems, and making informed
 
 
 
-
 🔍 What I'm Learning
 - SQL
 - Python
