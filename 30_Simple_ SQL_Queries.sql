@@ -1,5 +1,5 @@
 /****************************************/
-/*   30 Simple SQL Interview Queries    */
+/*   30 Simple SQL Queries    */
 /****************************************/
 
 /*1. Delete table Employee, Department and Company.*/
