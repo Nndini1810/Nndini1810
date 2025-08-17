@@ -11,7 +11,7 @@ Core Competencies
 
 - Programming & Analysis: Python (Pandas, NumPy, Scikit-learn), SQL
 
-- isualization & Reporting: Tableau, Power BI, Matplotlib, Seaborn
+- Visualization & Reporting: Tableau, Power BI, Matplotlib, Seaborn
 
 - Machine Learning & AI: Regression, Classification, Forecasting Models, Deep Learning (Keras, TensorFlow)
 
