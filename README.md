@@ -29,6 +29,7 @@ Professional Strengths
 
 
 🚀 Future Goals
+
 To continue advancing my expertise in AI-powered analytics, delivering solutions that create measurable business impact, and contributing to projects that merge data science with strategic decision-making.
 
 
